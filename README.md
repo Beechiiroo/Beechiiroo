@@ -45,11 +45,6 @@
 | Atomic Architecture | MVC |
 |----------|----------|
 
-### Methodologies:
-| Scrum |
-|----------|
-| <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" width="55" height="55"/> |
-
 ### Databases:
 | MongoDB | Oracle Database | MySQL |
 |----------|----------|----------|
