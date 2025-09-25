@@ -19,8 +19,8 @@
 
 - 🌱 I’m currently learning **Flutter, DevOps, React Native**  
 - 💬 Ask me about **React, MongoDB, Node.js, Express.js**  
-- 📫 How to reach me **bechirchaieb.dev@gmail.com**  
-- ⚡ Take a look at my resume: [Resume Link](#)  
+- 📫 How to reach me **chaiebb37@gmail.com**  s
+
 
 ---
 
