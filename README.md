@@ -69,7 +69,7 @@
 
 ---
 
-![snake gif](https://github.com/Beechiiroo/Beechiiroo/github-snake-dark.svg)
+https://github.com/<USERNAME>/<USERNAME>/github-snake-dark.svg
 
 ---
 
