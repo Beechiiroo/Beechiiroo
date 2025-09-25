@@ -69,7 +69,7 @@
 
 ---
 
-![snake gif](https://github.com/Beechiiroo/Beechiiroo/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Beechiiroo/Beechiiroo/github-snake-dark.svg)
 
 ---
 
